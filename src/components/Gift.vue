@@ -21,26 +21,22 @@ export default {
   align-items: center;
   z-index: 10;
 }
-
 .gift-top {
   width: 100px;
   height: 25px;
   background-color: #7aa944;
 }
-
 .gift-body {
   width: 90px;
   height: 60px;
   background-color: #5c7e32;  
 }
-
 .gift-tie-1 {
   position: absolute;
   width: 15px;
   height: 85px;
   background-color: red;
 }
-
 .gift-tie-2 {
   position: absolute;
   width: 90px;
